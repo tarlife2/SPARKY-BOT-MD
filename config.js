@@ -23,21 +23,21 @@ global.sgc = "github.com/Sparkymon777/SPARKY-BOT-MD" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['+917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
+global.owner = ['+263711348801'] //ur number
+global.ownernomer = "263711348801" //ur number
+global.ownertag = '263711348801' //ur tag number
+global.premium = ['263711348801'] //ur premium number
+global.botname = 'CYBERBOT' //ur bot name
+global.ownername = "CYBERSECURITY"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
+global.dana = "263711348801"
+global.pulsa = "263711348801"
+global.websitex = "https://instagram.com/talk6652" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
-global.botscript = 'https://youtube.com/@sparkymon777' //script link
+global.botscript = 'https://instagram.com/talk6652' //script link
 global.themeemoji = "👀" //ur theme emoji
 global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
+global.author = "Tarlife" //ur sticker watermark author
 global.wm = "S P A R K Y" //ur watermark
 
 // Other
@@ -60,7 +60,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 50
+    free: 99999999
 }
 global.thum = fs.readFileSync("./Media/theme/sparky.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./Media/theme/sparky.jpg") //ur logo pic
